@@ -37,6 +37,12 @@ body{
     margin: 40px;
 }
 
+.author{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 8px;
+}
+
 .btn{
     font-size: 18px;
     font-weight: 700;
